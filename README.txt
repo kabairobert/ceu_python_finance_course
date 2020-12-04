@@ -1,8 +1,6 @@
 =====================================================================
 
-This repository contains the material for 
-
-Continental lectures delivered on site at universities. 
+This repository contains the material for lectures delivered on site at universities. 
 
 The main material is a series of jupyter notebooks.
 
